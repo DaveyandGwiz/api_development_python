@@ -1,0 +1,59 @@
+
+
+- API
+at an endpoint
+make http request
+receive response
+
+
+- Host
+    * Local computer
+       ngrok allows you to expose a web server running on your local machine to the internet.
+       Just tell ngrok what port your web server is listening on.
+    * AWS Lambda
+        serveless provder
+    * Virtual Machine
+       - ec2
+    * Cloud providers
+       - Heroku
+       - AWS
+       - Google Cloud
+       - Azure
+       - cloud flair
+    * fly.io as a serverless
+        - runs scripts in docker container
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
